@@ -25,7 +25,7 @@ automatically create new tsconfig.json file
 run the compiler  
 `tsc`  
 (you can add the name of the file after to specifically compile one file)  
-`npx tsc index`  
+`tsc index`  
 or in watch mode  
 `tsc --watch`  
 
